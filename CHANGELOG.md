@@ -4,6 +4,11 @@ All notable changes are listed here. Format: [Keep a Changelog](https://keepacha
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-10-19
+
+### Fixed
+- JitPack build: correct SDKMAN identifier for Temurin 25 (v0.1.0 could not be built by JitPack; its GitHub release jars are unaffected).
+
 ## [0.1.0] - 2026-10-19
 
 ### Added

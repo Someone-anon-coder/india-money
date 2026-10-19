@@ -2,7 +2,7 @@
 
 Exact rupee arithmetic for Java: `Money` in paise, `Quantity` with per-unit scale, exact `UnitConversion`, Indian (lakh/crore) number formatting and parsing, amount in words, and bill round-off. Zero runtime dependencies, Java 25, JPMS module `io.github.someoneanoncoder.indiamoney`.
 
-Status: `0.1.0`. MIT licence.
+Status: `0.1.1`. MIT licence.
 
 ## Install
 
@@ -10,7 +10,7 @@ JitPack (first release):
 
 ```kotlin
 repositories { maven("https://jitpack.io") }
-dependencies { implementation("com.github.Someone-anon-coder:india-money:v0.1.0") }
+dependencies { implementation("com.github.Someone-anon-coder:india-money:v0.1.1") }
 ```
 
 Maven Central coordinates `io.github.someone-anon-coder:india-money` follow before v1.0.0.
