@@ -4,6 +4,8 @@ All notable changes are listed here. Format: [Keep a Changelog](https://keepacha
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-10-19
+
 ### Added
 - `Money` (paise, exact arithmetic, explicit rounding, lossless allocation) [L1-01].
 - `Unit`, `Quantity`, `UnitConversion` (rational factor, lossy conversions rejected) [L1-02].

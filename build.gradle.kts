@@ -21,7 +21,8 @@ plugins {
 }
 
 group = "io.github.someone-anon-coder"
-version = "0.1.0-SNAPSHOT"
+// Release builds pass -PreleaseVersion=x.y.z (release workflow) or set VERSION (JitPack).
+version = (findProperty("releaseVersion") as String?) ?: System.getenv("VERSION") ?: "0.1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
