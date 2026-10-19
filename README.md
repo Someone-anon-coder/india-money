@@ -2,7 +2,7 @@
 
 Exact rupee arithmetic for Java: `Money` in paise, `Quantity` with per-unit scale, exact `UnitConversion`, Indian (lakh/crore) number formatting and parsing, amount in words, and bill round-off. Zero runtime dependencies, Java 25, JPMS module `io.github.someoneanoncoder.indiamoney`.
 
-Status: `0.1.0-SNAPSHOT`, in development. MIT licence.
+Status: `0.1.0`. MIT licence.
 
 ## Install
 

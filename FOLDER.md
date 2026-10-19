@@ -11,4 +11,5 @@
 | config/checkstyle | Header and Javadoc rules |
 | gradle | Version catalog and wrapper |
 | .github/workflows | CI (ubuntu + windows) and release |
+| jitpack.yml | JitPack build with JDK 25 |
 | CLAUDE.md | Conventions for this repo (derived from the ShopSuite §12 template) |
